@@ -1,0 +1,227 @@
+{
+  "sentences": [
+    {
+      "text": {
+        "content": "on 21 December i came back from work and returning home from a far distance journey from sokoto a friend of mine came to my house that particular day by 7:00pm to help him with my laptop so that he can attend his online lectures",
+        "beginOffset": -1
+      },
+      "sentiment": {
+        "magnitude": 0.5,
+        "score": 0.5
+      }
+    }
+  ],
+  "tokens": [],
+  "entities": [
+    {
+      "name": "friend",
+      "type": "PERSON",
+      "metadata": {},
+      "salience": 0.53454316,
+      "mentions": [
+        {
+          "text": {
+            "content": "friend",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "work",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.07914335,
+      "mentions": [
+        {
+          "text": {
+            "content": "work",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "home",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.07914335,
+      "mentions": [
+        {
+          "text": {
+            "content": "home",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "lectures",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.055454183,
+      "mentions": [
+        {
+          "text": {
+            "content": "lectures",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "mine",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.054796193,
+      "mentions": [
+        {
+          "text": {
+            "content": "mine",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "journey",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054145765,
+      "mentions": [
+        {
+          "text": {
+            "content": "journey",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "distance",
+      "type": "OTHER",
+      "metadata": {},
+      "salience": 0.054145765,
+      "mentions": [
+        {
+          "text": {
+            "content": "distance",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "house",
+      "type": "LOCATION",
+      "metadata": {},
+      "salience": 0.050397515,
+      "mentions": [
+        {
+          "text": {
+            "content": "house",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "laptop",
+      "type": "CONSUMER_GOOD",
+      "metadata": {},
+      "salience": 0.038230717,
+      "mentions": [
+        {
+          "text": {
+            "content": "laptop",
+            "beginOffset": -1
+          },
+          "type": "COMMON"
+        }
+      ]
+    },
+    {
+      "name": "21 December",
+      "type": "DATE",
+      "metadata": {
+        "day": "21",
+        "month": "12"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "21 December",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ]
+    },
+    {
+      "name": "21",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "21"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "21",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ]
+    },
+    {
+      "name": "7",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "7"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "7",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ]
+    },
+    {
+      "name": "00",
+      "type": "NUMBER",
+      "metadata": {
+        "value": "0"
+      },
+      "salience": 0,
+      "mentions": [
+        {
+          "text": {
+            "content": "00",
+            "beginOffset": -1
+          },
+          "type": "TYPE_UNKNOWN"
+        }
+      ]
+    }
+  ],
+  "documentSentiment": {
+    "magnitude": 0.5,
+    "score": 0.5
+  },
+  "language": "en",
+  "categories": []
+}

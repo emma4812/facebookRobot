@@ -1,0 +1,25 @@
+client ID
+ade7658a-7588-490c-b715-00620de21629
+primary key
+7SDlIaKJUeG2QeOJtmkqaw5cWEJixDjp4AsezzkW5KE
+secondary key
+HatexywYYATYJ4JFKClrvJ5Se1BYNfxKTWlSRp456KM
+
+
+
+
+
+
+
+https://atlas.microsoft.com/search/address/reverse/json?api-version=1.0&subscription-key={Your-Azure-Maps-Primary-Subscription-key}&language=en-US&query=47.591180,-122.332700&number=1
+
+
+
+
+https://atlas.microsoft.com/search/address/reverse/json?api-version=1.0&subscription-key={7SDlIaKJUeG2QeOJtmkqaw5cWEJixDjp4AsezzkW5KE}&language=en-US&query=10.609319,7.429504&number=1
+
+
+10.609319, 7.429504
+
+
+Islamist, militant, Boko, Haram, defeated, north, east, security,conflict,deaths,deadly,IS's,deadliest,attacks,kidnapping,tension,army,bandits,abductions,safe,Biafra,violating
